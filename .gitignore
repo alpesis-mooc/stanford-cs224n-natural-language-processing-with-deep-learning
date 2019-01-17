@@ -6,3 +6,6 @@
 *.swn
 *.swm
 *.swp
+
+# OS
+.DS_Store
